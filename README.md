@@ -1,2 +1,2 @@
-# cozymy.github.io
-Personal Website by Kunal Kundra (@cozymy).
+# Kunal Kundra (@cozymy)
+Personal Website by @cozymy.
